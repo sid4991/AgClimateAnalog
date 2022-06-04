@@ -35,7 +35,7 @@ trunc.SDs <- 0.1 # Principal component truncation rule
 non_numeric_cols <- colnames(Historical)[HistoricalICV(1:2)]
 numeric_cols <- colnames(Historical)[3:7]
 
-n_neighbors <- 5
+n_neighbors <- ## number of neighbours
 NN_dist_tb <- data.table()
 NNs_loc_year_tb <- data.table()
 NN_sigma_tb <- data.table()
@@ -52,6 +52,7 @@ Bj <- Projected %>% filter(State_County==a_future_loc)
 Cj <- HistoricalICV %>% filter(State_County==a_future_loc)
 print (dim(Cj))
 
+## Step 1: express climate data as standardized anomalies of reference period (1990-2020)
 Cj.sd <- apply(Cj[, numeric_cols, drop=F], MARGIN=2, FUN = sd, na.rm = T)
 Cj.sd[Cj.sd<(10^-10)] = 1
 
@@ -63,7 +64,7 @@ Bj_prime[, numeric_cols] <-sweep(Bj_prime[, numeric_cols], MARGIN=2, STATS=Cj.sd
 Cj_prime <- Cj
 Cj_prime[, numeric_cols] <-sweep(Cj_prime[, numeric_cols], MARGIN=2, STATS=Cj.sd, FUN = `/`)
 
-
+## Step 2: Extract the principal components (PCs) of the reference period ICV and project all data onto these PCs
 PCA <- prcomp(Cj_prime[, numeric_cols][!is.na(apply(Cj_prime[, numeric_cols], 1, mean)) ,])
 PCs <- max(which(unlist(summary(PCA)[1])>trunc.SDs))
 
@@ -76,6 +77,7 @@ Yj <- cbind(Bj_prime[, non_numeric_cols], Yj)
 Zj <- as.data.frame(predict(PCA, Cj_prime[, numeric_cols]))
 Zj <- cbind(Cj_prime[, non_numeric_cols], Zj)
 
+## Step 3a: express PC scores as standardized anomalies of reference interannual variability
 Zj_sd <- apply(Zj[, (1+length(non_numeric_cols)):(PCs + length(non_numeric_cols)), drop=F], MARGIN = 2, FUN = sd, na.rm=T)
 X_prime <- sweep(X[, (1+length(non_numeric_cols)):(PCs + length(non_numeric_cols))], MARGIN=2, Zj_sd, FUN = `/`)
 X_prime <- cbind(X[, non_numeric_cols], X_prime)
@@ -91,10 +93,11 @@ X_prime <- X_prime[complete.cases(X_prime), ]
 
 NN_list <- get.knnx(data = X_prime[, (1+length(non_numeric_cols)):(PCs+length(non_numeric_cols))],
                     query= Yj_prime[, (1+length(non_numeric_cols)):(PCs+length(non_numeric_cols))],
-                    k=n_neighbors, algorithm="brute")
+                    k=n_neighbors, algorithm="brute") # Euclidean nearest neighbour distance in the z-standardized PCs of interannual climatic variability, i.e. the Mahalanobian nearest neighbour.
 
-NN_chi <- EnvStats::pchi(as.vector(NN_list$nn.dist), PCs)
-NN_sigma <- EnvStats::qchi(NN_chi, 1)
+NN_chi <- EnvStats::pchi(as.vector(NN_list$nn.dist), PCs) # percentile of the nearest neighbour distance on the chi distribution with degrees of freedom equaling the dimensionality of the distance measurement (PCs)
+
+NN_sigma <- EnvStats::qchi(NN_chi, 1) # values of the chi percentiles on a standard half-normal distribution (chi distribution with one degree of freedom)
 
 NN_idx <- NN_list$nn.index
 NN_dist <- NN_list$nn.dist %>% data.table()
