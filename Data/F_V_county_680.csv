@@ -1,0 +1,681 @@
+State,Code,County,State_County
+Alabama,AL,Mobile,AL_Mobile
+Alabama,AL,Chilton,AL_Chilton
+Alabama,AL,Blount,AL_Blount
+Alabama,AL,Houston,AL_Houston
+Alabama,AL,Baldwin,AL_Baldwin
+Alabama,AL,Covington,AL_Covington
+Alabama,AL,Geneva,AL_Geneva
+Alabama,AL,De Kalb,AL_De Kalb
+Alabama,AL,Cullman,AL_Cullman
+Alabama,AL,Autauga,AL_Autauga
+Arizona,AZ,Pinal,AZ_Pinal
+Arizona,AZ,Yuma,AZ_Yuma
+Arizona,AZ,Lapaz,AZ_Lapaz
+Arizona,AZ,Maricopa,AZ_Maricopa
+Arizona,AZ,Cochise,AZ_Cochise
+Arizona,AZ,Graham,AZ_Graham
+Arkansas,AR,Lonoke,AR_Lonoke
+Arkansas,AR,Bradley,AR_Bradley
+Arkansas,AR,Miller,AR_Miller
+Arkansas,AR,Little River,AR_Little River
+Arkansas,AR,Cross,AR_Cross
+California,CA,Fresno,CA_Fresno
+California,CA,Kern,CA_Kern
+California,CA,Monterey,CA_Monterey
+California,CA,Tulare,CA_Tulare
+California,CA,Stanislaus,CA_Stanislaus
+California,CA,Madera,CA_Madera
+California,CA,Merced,CA_Merced
+California,CA,San Joaquin,CA_San Joaquin
+California,CA,Siskiyou,CA_Siskiyou
+California,CA,Kings,CA_Kings
+California,CA,Contra Costa,CA_Contra Costa
+California,CA,Imperial,CA_Imperial
+California,CA,Sonoma,CA_Sonoma
+California,CA,Santa Barbara,CA_Santa Barbara
+California,CA,Yolo,CA_Yolo
+California,CA,Glenn,CA_Glenn
+California,CA,Butte,CA_Butte
+California,CA,Calaveras,CA_Calaveras
+California,CA,Ventura,CA_Ventura
+California,CA,Colusa,CA_Colusa
+California,CA,Sutter,CA_Sutter
+California,CA,El Dorado,CA_El Dorado
+California,CA,Sacramento,CA_Sacramento
+California,CA,Alameda,CA_Alameda
+California,CA,San Luis Obispo,CA_San Luis Obispo
+California,CA,Riverside,CA_Riverside
+California,CA,Napa,CA_Napa
+California,CA,Los Angeles,CA_Los Angeles
+California,CA,Amador,CA_Amador
+California,CA,Yuba,CA_Yuba
+California,CA,Orange,CA_Orange
+California,CA,Modoc,CA_Modoc
+California,CA,Mendocino,CA_Mendocino
+California,CA,Shasta,CA_Shasta
+California,CA,San Benito,CA_San Benito
+California,CA,Solano,CA_Solano
+California,CA,Nevada,CA_Nevada
+California,CA,San Mateo,CA_San Mateo
+California,CA,San Bernardino,CA_San Bernardino
+California,CA,Santa Clara,CA_Santa Clara
+California,CA,Tehama,CA_Tehama
+California,CA,Santa Cruz,CA_Santa Cruz
+California,CA,San Diego,CA_San Diego
+California,CA,Placer,CA_Placer
+California,CA,Marin,CA_Marin
+Colorado,CO,Saguache,CO_Saguache
+Colorado,CO,Otero,CO_Otero
+Colorado,CO,Delta,CO_Delta
+Colorado,CO,Alamosa,CO_Alamosa
+Colorado,CO,Costilla,CO_Costilla
+Colorado,CO,Mesa,CO_Mesa
+Colorado,CO,Weld,CO_Weld
+Colorado,CO,Yuma,CO_Yuma
+Colorado,CO,Montrose,CO_Montrose
+Colorado,CO,Pueblo,CO_Pueblo
+Colorado,CO,Rio Grande,CO_Rio Grande
+Connecticut,CT,Tolland,CT_Tolland
+Connecticut,CT,Hartford,CT_Hartford
+Connecticut,CT,Litchfield,CT_Litchfield
+Connecticut,CT,New Haven,CT_New Haven
+Delaware,DE,Sussex,DE_Sussex
+Delaware,DE,Kent,DE_Kent
+Florida,FL,Miami-Dade,FL_Miami-Dade
+Florida,FL,Hendry,FL_Hendry
+Florida,FL,Okeechobee,FL_Okeechobee
+Florida,FL,Columbia,FL_Columbia
+Florida,FL,Highlands,FL_Highlands
+Florida,FL,Jackson,FL_Jackson
+Florida,FL,Brevard,FL_Brevard
+Florida,FL,Palm Beach,FL_Palm Beach
+Florida,FL,Escambia,FL_Escambia
+Florida,FL,Volusia,FL_Volusia
+Florida,FL,Indian River,FL_Indian River
+Florida,FL,Gilchrist,FL_Gilchrist
+Florida,FL,Hernando,FL_Hernando
+Florida,FL,Manatee,FL_Manatee
+Florida,FL,Pasco,FL_Pasco
+Florida,FL,Gadsden,FL_Gadsden
+Florida,FL,Lee,FL_Lee
+Florida,FL,Suwannee,FL_Suwannee
+Florida,FL,Martin,FL_Martin
+Florida,FL,Collier,FL_Collier
+Florida,FL,Hardee,FL_Hardee
+Florida,FL,Hillsborough,FL_Hillsborough
+Florida,FL,Levy,FL_Levy
+Florida,FL,Charlotte,FL_Charlotte
+Florida,FL,Lake,FL_Lake
+Florida,FL,St. Lucie,FL_St. Lucie
+Florida,FL,Polk,FL_Polk
+Florida,FL,Hamilton,FL_Hamilton
+Florida,FL,Lafayette,FL_Lafayette
+Florida,FL,Alachua,FL_Alachua
+Florida,FL,Marion,FL_Marion
+Florida,FL,Osceola,FL_Osceola
+Florida,FL,St. Johns,FL_St. Johns
+Florida,FL,Jefferson,FL_Jefferson
+Florida,FL,De Soto,FL_De Soto
+Florida,FL,Walton,FL_Walton
+Florida,FL,Putnam,FL_Putnam
+Florida,FL,Flagler,FL_Flagler
+Florida,FL,Orange,FL_Orange
+Florida,FL,Sarasota,FL_Sarasota
+Georgia,GA,Lowndes,GA_Lowndes
+Georgia,GA,Crisp,GA_Crisp
+Georgia,GA,Thomas,GA_Thomas
+Georgia,GA,Turner,GA_Turner
+Georgia,GA,Screven,GA_Screven
+Georgia,GA,Upson,GA_Upson
+Georgia,GA,Seminole,GA_Seminole
+Georgia,GA,Grady,GA_Grady
+Georgia,GA,Tattnall,GA_Tattnall
+Georgia,GA,Mitchell,GA_Mitchell
+Georgia,GA,Appling,GA_Appling
+Georgia,GA,Candler,GA_Candler
+Georgia,GA,Berrien,GA_Berrien
+Georgia,GA,Washington,GA_Washington
+Georgia,GA,Wilcox,GA_Wilcox
+Georgia,GA,Tift,GA_Tift
+Georgia,GA,Houston,GA_Houston
+Georgia,GA,Wayne,GA_Wayne
+Georgia,GA,Bulloch,GA_Bulloch
+Georgia,GA,Pierce,GA_Pierce
+Georgia,GA,Evans,GA_Evans
+Georgia,GA,Bacon,GA_Bacon
+Georgia,GA,Sumter,GA_Sumter
+Georgia,GA,Echols,GA_Echols
+Georgia,GA,Clinch,GA_Clinch
+Georgia,GA,Montgomery,GA_Montgomery
+Georgia,GA,Worth,GA_Worth
+Georgia,GA,Colquitt,GA_Colquitt
+Georgia,GA,Brooks,GA_Brooks
+Georgia,GA,Cook,GA_Cook
+Georgia,GA,Lee,GA_Lee
+Georgia,GA,Jefferson,GA_Jefferson
+Georgia,GA,Decatur,GA_Decatur
+Georgia,GA,Toombs,GA_Toombs
+Hawaii,HI,Maui & Kalwao,HI_Maui & Kalwao
+Hawaii,HI,Honolulu,HI_Honolulu
+Hawaii,HI,Hawaii,HI_Hawaii
+Hawaii,HI,Kauai,HI_Kauai
+Idaho,ID,Power,ID_Power
+Idaho,ID,Owyhee,ID_Owyhee
+Idaho,ID,Teton,ID_Teton
+Idaho,ID,Fremont,ID_Fremont
+Idaho,ID,Washington,ID_Washington
+Idaho,ID,Butte,ID_Butte
+Idaho,ID,Elmore,ID_Elmore
+Idaho,ID,Jerome,ID_Jerome
+Idaho,ID,Ada,ID_Ada
+Idaho,ID,Madison,ID_Madison
+Idaho,ID,Twin Falls,ID_Twin Falls
+Idaho,ID,Bonneville,ID_Bonneville
+Idaho,ID,Gooding,ID_Gooding
+Idaho,ID,Canyon,ID_Canyon
+Idaho,ID,Cassia,ID_Cassia
+Idaho,ID,Jefferson,ID_Jefferson
+Idaho,ID,Payette,ID_Payette
+Idaho,ID,Caribou,ID_Caribou
+Idaho,ID,Minidoka,ID_Minidoka
+Idaho,ID,Bingham,ID_Bingham
+Illinois,IL,Tazewell,IL_Tazewell
+Illinois,IL,La Salle,IL_La Salle
+Illinois,IL,Kane,IL_Kane
+Illinois,IL,White,IL_White
+Illinois,IL,Moultrie,IL_Moultrie
+Illinois,IL,Mchenry,IL_Mchenry
+Illinois,IL,Mason,IL_Mason
+Illinois,IL,Lee,IL_Lee
+Illinois,IL,Whiteside,IL_Whiteside
+Illinois,IL,Peoria,IL_Peoria
+Illinois,IL,Ogle,IL_Ogle
+Illinois,IL,Madison,IL_Madison
+Illinois,IL,Marshall,IL_Marshall
+Illinois,IL,Stark,IL_Stark
+Illinois,IL,Kankakee,IL_Kankakee
+Illinois,IL,St Clair,IL_St Clair
+Illinois,IL,De Kalb,IL_De Kalb
+Indiana,IN,Elkhart,IN_Elkhart
+Indiana,IN,Knox,IN_Knox
+Indiana,IN,Grant,IN_Grant
+Indiana,IN,La Porte,IN_La Porte
+Indiana,IN,Bartholomew,IN_Bartholomew
+Indiana,IN,Porter,IN_Porter
+Indiana,IN,Sullivan,IN_Sullivan
+Indiana,IN,Lagrange,IN_Lagrange
+Iowa,IA,Hardin,IA_Hardin
+Kansas,KS,Labette,KS_Labette
+Kansas,KS,Grant,KS_Grant
+Louisiana,LA,Natchitoches,LA_Natchitoches
+Louisiana,LA,Avoyelles,LA_Avoyelles
+Louisiana,LA,Grant,LA_Grant
+Louisiana,LA,Caddo,LA_Caddo
+Louisiana,LA,Rapides,LA_Rapides
+Louisiana,LA,West Carroll,LA_West Carroll
+Louisiana,LA,Pointe Coupee,LA_Pointe Coupee
+Maine,ME,Penobscot,ME_Penobscot
+Maine,ME,York,ME_York
+Maine,ME,Oxford,ME_Oxford
+Maine,ME,Androscoggin,ME_Androscoggin
+Maine,ME,Cumberland,ME_Cumberland
+Maine,ME,Aroostook,ME_Aroostook
+Maryland,MD,Montgomery,MD_Montgomery
+Maryland,MD,Washington,MD_Washington
+Maryland,MD,Harford,MD_Harford
+Maryland,MD,Kent,MD_Kent
+Maryland,MD,Baltimore,MD_Baltimore
+Maryland,MD,Worcester,MD_Worcester
+Maryland,MD,Queen Annes,MD_Queen Annes
+Maryland,MD,Dorchester,MD_Dorchester
+Maryland,MD,Wicomico,MD_Wicomico
+Maryland,MD,Carroll,MD_Carroll
+Maryland,MD,Caroline,MD_Caroline
+Massachusetts,MA,Franklin,MA_Franklin
+Massachusetts,MA,Bristol,MA_Bristol
+Massachusetts,MA,Barnstable,MA_Barnstable
+Massachusetts,MA,Hampshire,MA_Hampshire
+Massachusetts,MA,Essex,MA_Essex
+Massachusetts,MA,Middlesex,MA_Middlesex
+Massachusetts,MA,Hampden,MA_Hampden
+Massachusetts,MA,Worcester,MA_Worcester
+Massachusetts,MA,Plymouth,MA_Plymouth
+Michigan,MI,Mecosta,MI_Mecosta
+Michigan,MI,Kalkaska,MI_Kalkaska
+Michigan,MI,Isabella,MI_Isabella
+Michigan,MI,Presque Isle,MI_Presque Isle
+Michigan,MI,Ottawa,MI_Ottawa
+Michigan,MI,St Clair,MI_St Clair
+Michigan,MI,Kent,MI_Kent
+Michigan,MI,Branch,MI_Branch
+Michigan,MI,St Joseph,MI_St Joseph
+Michigan,MI,Antrim,MI_Antrim
+Michigan,MI,Oakland,MI_Oakland
+Michigan,MI,Grand Traverse,MI_Grand Traverse
+Michigan,MI,Arenac,MI_Arenac
+Michigan,MI,Muskegon,MI_Muskegon
+Michigan,MI,Washtenaw,MI_Washtenaw
+Michigan,MI,Otsego,MI_Otsego
+Michigan,MI,Macomb,MI_Macomb
+Michigan,MI,Cass,MI_Cass
+Michigan,MI,Berrien,MI_Berrien
+Michigan,MI,Mason,MI_Mason
+Michigan,MI,Monroe,MI_Monroe
+Michigan,MI,Tuscola,MI_Tuscola
+Michigan,MI,Newaygo,MI_Newaygo
+Michigan,MI,Kalamazoo,MI_Kalamazoo
+Michigan,MI,Saginaw,MI_Saginaw
+Michigan,MI,Genesee,MI_Genesee
+Michigan,MI,Montcalm,MI_Montcalm
+Michigan,MI,Benzie,MI_Benzie
+Michigan,MI,Ionia,MI_Ionia
+Michigan,MI,Lenawee,MI_Lenawee
+Michigan,MI,Bay,MI_Bay
+Michigan,MI,Allegan,MI_Allegan
+Michigan,MI,Gratiot,MI_Gratiot
+Michigan,MI,Oceana,MI_Oceana
+Michigan,MI,Lapeer,MI_Lapeer
+Michigan,MI,Van Buren,MI_Van Buren
+Michigan,MI,Livingston,MI_Livingston
+Michigan,MI,Leelanau,MI_Leelanau
+Minnesota,MN,Brown,MN_Brown
+Minnesota,MN,Sherburne,MN_Sherburne
+Minnesota,MN,Winona,MN_Winona
+Minnesota,MN,Polk,MN_Polk
+Minnesota,MN,Faribault,MN_Faribault
+Minnesota,MN,Stearns,MN_Stearns
+Minnesota,MN,Olmsted,MN_Olmsted
+Minnesota,MN,Dodge,MN_Dodge
+Minnesota,MN,Renville,MN_Renville
+Minnesota,MN,Wright,MN_Wright
+Minnesota,MN,Washington,MN_Washington
+Minnesota,MN,Nicollet,MN_Nicollet
+Minnesota,MN,Chisago,MN_Chisago
+Minnesota,MN,Chippewa,MN_Chippewa
+Minnesota,MN,Kittson,MN_Kittson
+Minnesota,MN,Watonwan,MN_Watonwan
+Minnesota,MN,Clay,MN_Clay
+Minnesota,MN,Mcleod,MN_Mcleod
+Minnesota,MN,Red Lake,MN_Red Lake
+Minnesota,MN,Meeker,MN_Meeker
+Minnesota,MN,Kandiyohi,MN_Kandiyohi
+Minnesota,MN,Waseca,MN_Waseca
+Minnesota,MN,Le Sueur,MN_Le Sueur
+Minnesota,MN,Sibley,MN_Sibley
+Minnesota,MN,Steele,MN_Steele
+Minnesota,MN,Martin,MN_Martin
+Minnesota,MN,Fillmore,MN_Fillmore
+Minnesota,MN,Wabasha,MN_Wabasha
+Minnesota,MN,Benton,MN_Benton
+Minnesota,MN,Mower,MN_Mower
+Minnesota,MN,Blue Earth,MN_Blue Earth
+Minnesota,MN,Morrison,MN_Morrison
+Minnesota,MN,Freeborn,MN_Freeborn
+Minnesota,MN,Dakota,MN_Dakota
+Minnesota,MN,Todd,MN_Todd
+Minnesota,MN,Goodhue,MN_Goodhue
+Minnesota,MN,Pope,MN_Pope
+Minnesota,MN,Redwood,MN_Redwood
+Mississippi,MS,Calhoun,MS_Calhoun
+Mississippi,MS,Webster,MS_Webster
+Mississippi,MS,Chickasaw,MS_Chickasaw
+Mississippi,MS,Yalobusha,MS_Yalobusha
+Mississippi,MS,Lamar,MS_Lamar
+Missouri,MO,Chariton,MO_Chariton
+Missouri,MO,Lafayette,MO_Lafayette
+Missouri,MO,Dunklin,MO_Dunklin
+Montana,MT,Broadwater,MT_Broadwater
+Montana,MT,Gallatin,MT_Gallatin
+Montana,MT,Lake,MT_Lake
+Nebraska,NE,Morrill,NE_Morrill
+Nebraska,NE,Lincoln,NE_Lincoln
+Nebraska,NE,Chase,NE_Chase
+Nevada,NV,Lyon,NV_Lyon
+New Hampshire,NH,Hillsborough,NH_Hillsborough
+New Jersey,NJ,Gloucester,NJ_Gloucester
+New Jersey,NJ,Monmouth,NJ_Monmouth
+New Jersey,NJ,Hunterdon,NJ_Hunterdon
+New Jersey,NJ,Camden,NJ_Camden
+New Jersey,NJ,Morris,NJ_Morris
+New Jersey,NJ,Warren,NJ_Warren
+New Jersey,NJ,Middlesex,NJ_Middlesex
+New Jersey,NJ,Salem,NJ_Salem
+New Jersey,NJ,Atlantic,NJ_Atlantic
+New Jersey,NJ,Sussex,NJ_Sussex
+New Jersey,NJ,Ocean,NJ_Ocean
+New Jersey,NJ,Cumberland,NJ_Cumberland
+New Jersey,NJ,Mercer,NJ_Mercer
+New Jersey,NJ,Burlington,NJ_Burlington
+New Mexico,NM,Otero,NM_Otero
+New Mexico,NM,Sierra,NM_Sierra
+New Mexico,NM,Chaves,NM_Chaves
+New Mexico,NM,Dona Ana,NM_Dona Ana
+New Mexico,NM,Valencia,NM_Valencia
+New Mexico,NM,Eddy,NM_Eddy
+New Mexico,NM,Luna,NM_Luna
+New Mexico,NM,Lea,NM_Lea
+New Mexico,NM,San Juan,NM_San Juan
+New Mexico,NM,Roosevelt,NM_Roosevelt
+New York,NY,Wyoming,NY_Wyoming
+New York,NY,Livingston,NY_Livingston
+New York,NY,Greene,NY_Greene
+New York,NY,Onondaga,NY_Onondaga
+New York,NY,Yates,NY_Yates
+New York,NY,Franklin,NY_Franklin
+New York,NY,Wayne,NY_Wayne
+New York,NY,Ontario,NY_Ontario
+New York,NY,Suffolk,NY_Suffolk
+New York,NY,Genesee,NY_Genesee
+New York,NY,Clinton,NY_Clinton
+New York,NY,Steuben,NY_Steuben
+New York,NY,Allegany,NY_Allegany
+New York,NY,Cattaraugus,NY_Cattaraugus
+New York,NY,Chautauqua,NY_Chautauqua
+New York,NY,Columbia,NY_Columbia
+New York,NY,Orange,NY_Orange
+New York,NY,Tompkins,NY_Tompkins
+New York,NY,Madison,NY_Madison
+New York,NY,Seneca,NY_Seneca
+New York,NY,Rensselaer,NY_Rensselaer
+New York,NY,Washington,NY_Washington
+New York,NY,Oswego,NY_Oswego
+New York,NY,Saratoga,NY_Saratoga
+New York,NY,Niagara,NY_Niagara
+New York,NY,Orleans,NY_Orleans
+New York,NY,Monroe,NY_Monroe
+New York,NY,Oneida,NY_Oneida
+New York,NY,Schoharie,NY_Schoharie
+New York,NY,Ulster,NY_Ulster
+New York,NY,Cayuga,NY_Cayuga
+New York,NY,Erie,NY_Erie
+New York,NY,Albany,NY_Albany
+New York,NY,Dutchess,NY_Dutchess
+North Carolina,NC,Alleghany,NC_Alleghany
+North Carolina,NC,Harnett,NC_Harnett
+North Carolina,NC,Rowan,NC_Rowan
+North Carolina,NC,Duplin,NC_Duplin
+North Carolina,NC,Lenoir,NC_Lenoir
+North Carolina,NC,Wilson,NC_Wilson
+North Carolina,NC,Chowan,NC_Chowan
+North Carolina,NC,Buncombe,NC_Buncombe
+North Carolina,NC,Wayne,NC_Wayne
+North Carolina,NC,Sampson,NC_Sampson
+North Carolina,NC,Bertie,NC_Bertie
+North Carolina,NC,Bladen,NC_Bladen
+North Carolina,NC,Edgecombe,NC_Edgecombe
+North Carolina,NC,Columbus,NC_Columbus
+North Carolina,NC,Halifax,NC_Halifax
+North Carolina,NC,Greene,NC_Greene
+North Carolina,NC,Nash,NC_Nash
+North Carolina,NC,Johnston,NC_Johnston
+North Carolina,NC,Washington,NC_Washington
+North Carolina,NC,Surry,NC_Surry
+North Carolina,NC,Hertford,NC_Hertford
+North Carolina,NC,Cumberland,NC_Cumberland
+North Carolina,NC,Wake,NC_Wake
+North Carolina,NC,Robeson,NC_Robeson
+North Carolina,NC,Hyde,NC_Hyde
+North Carolina,NC,Pasquotank,NC_Pasquotank
+North Carolina,NC,Catawba,NC_Catawba
+North Carolina,NC,Martin,NC_Martin
+North Carolina,NC,Henderson,NC_Henderson
+North Carolina,NC,Pitt,NC_Pitt
+North Carolina,NC,Pender,NC_Pender
+North Dakota,ND,Kidder,ND_Kidder
+North Dakota,ND,Pembina,ND_Pembina
+North Dakota,ND,Grand Forks,ND_Grand Forks
+North Dakota,ND,Sargent,ND_Sargent
+North Dakota,ND,Traill,ND_Traill
+North Dakota,ND,Walsh,ND_Walsh
+Ohio,OH,Mahoning,OH_Mahoning
+Ohio,OH,Lorain,OH_Lorain
+Ohio,OH,Fulton,OH_Fulton
+Ohio,OH,Ashtabula,OH_Ashtabula
+Ohio,OH,Wayne,OH_Wayne
+Ohio,OH,Wood,OH_Wood
+Ohio,OH,Henry,OH_Henry
+Ohio,OH,Sandusky,OH_Sandusky
+Ohio,OH,Stark,OH_Stark
+Ohio,OH,Ottawa,OH_Ottawa
+Ohio,OH,Erie,OH_Erie
+Ohio,OH,Huron,OH_Huron
+Ohio,OH,Champaign,OH_Champaign
+Ohio,OH,Putnam,OH_Putnam
+Oklahoma,OK,Coal,OK_Coal
+Oklahoma,OK,Tulsa,OK_Tulsa
+Oklahoma,OK,Jefferson,OK_Jefferson
+Oklahoma,OK,Mcclain,OK_Mcclain
+Oklahoma,OK,Okmulgee,OK_Okmulgee
+Oklahoma,OK,Lincoln,OK_Lincoln
+Oklahoma,OK,Garvin,OK_Garvin
+Oklahoma,OK,Rogers,OK_Rogers
+Oklahoma,OK,Carter,OK_Carter
+Oklahoma,OK,Bryan,OK_Bryan
+Oklahoma,OK,Caddo,OK_Caddo
+Oklahoma,OK,Seminole,OK_Seminole
+Oklahoma,OK,Hughes,OK_Hughes
+Oklahoma,OK,Creek,OK_Creek
+Oklahoma,OK,Pottawatomie,OK_Pottawatomie
+Oklahoma,OK,Marshall,OK_Marshall
+Oklahoma,OK,Mccurtain,OK_Mccurtain
+Oklahoma,OK,Osage,OK_Osage
+Oklahoma,OK,Choctaw,OK_Choctaw
+Oklahoma,OK,Ottawa,OK_Ottawa
+Oklahoma,OK,Atoka,OK_Atoka
+Oregon,OR,Washington,OR_Washington
+Oregon,OR,Umatilla,OR_Umatilla
+Oregon,OR,Yamhill,OR_Yamhill
+Oregon,OR,Polk,OR_Polk
+Oregon,OR,Multnomah,OR_Multnomah
+Oregon,OR,Klamath,OR_Klamath
+Oregon,OR,Baker,OR_Baker
+Oregon,OR,Marion,OR_Marion
+Oregon,OR,Malheur,OR_Malheur
+Oregon,OR,Morrow,OR_Morrow
+Oregon,OR,Benton,OR_Benton
+Oregon,OR,Coos,OR_Coos
+Oregon,OR,Linn,OR_Linn
+Oregon,OR,Josephine,OR_Josephine
+Oregon,OR,Curry,OR_Curry
+Oregon,OR,Hood River,OR_Hood River
+Oregon,OR,Jackson,OR_Jackson
+Oregon,OR,Lane,OR_Lane
+Oregon,OR,Douglas,OR_Douglas
+Oregon,OR,Clackamas,OR_Clackamas
+Pennsylvania,PA,Lebanon,PA_Lebanon
+Pennsylvania,PA,Dauphin,PA_Dauphin
+Pennsylvania,PA,Northumberland,PA_Northumberland
+Pennsylvania,PA,Luzerne,PA_Luzerne
+Pennsylvania,PA,Butler,PA_Butler
+Pennsylvania,PA,Columbia,PA_Columbia
+Pennsylvania,PA,Franklin,PA_Franklin
+Pennsylvania,PA,York,PA_York
+Pennsylvania,PA,Allegheny,PA_Allegheny
+Pennsylvania,PA,Cumberland,PA_Cumberland
+Pennsylvania,PA,Cambria,PA_Cambria
+Pennsylvania,PA,Snyder,PA_Snyder
+Pennsylvania,PA,Centre,PA_Centre
+Pennsylvania,PA,Adams,PA_Adams
+Pennsylvania,PA,Lycoming,PA_Lycoming
+Pennsylvania,PA,Lancaster,PA_Lancaster
+Pennsylvania,PA,Potter,PA_Potter
+Pennsylvania,PA,Bucks,PA_Bucks
+Pennsylvania,PA,Erie,PA_Erie
+Pennsylvania,PA,Berks,PA_Berks
+Pennsylvania,PA,Chester,PA_Chester
+Pennsylvania,PA,Indiana,PA_Indiana
+Pennsylvania,PA,Lehigh,PA_Lehigh
+Pennsylvania,PA,Schuylkill,PA_Schuylkill
+Rhode Island,RI,Newport,RI_Newport
+Rhode Island,RI,Providence,RI_Providence
+South Carolina,SC,Beaufort,SC_Beaufort
+South Carolina,SC,Bamberg,SC_Bamberg
+South Carolina,SC,Florence,SC_Florence
+South Carolina,SC,Aiken,SC_Aiken
+South Carolina,SC,Barnwell,SC_Barnwell
+South Carolina,SC,Orangeburg,SC_Orangeburg
+South Carolina,SC,Williamsburg,SC_Williamsburg
+South Carolina,SC,Spartanburg,SC_Spartanburg
+South Carolina,SC,Charleston,SC_Charleston
+South Carolina,SC,Horry,SC_Horry
+South Carolina,SC,Lexington,SC_Lexington
+South Carolina,SC,Saluda,SC_Saluda
+South Carolina,SC,Clarendon,SC_Clarendon
+Tennessee,TN,Lincoln,TN_Lincoln
+Tennessee,TN,Cocke,TN_Cocke
+Tennessee,TN,Cumberland,TN_Cumberland
+Tennessee,TN,Washington,TN_Washington
+Tennessee,TN,Greene,TN_Greene
+Texas,TX,Fort Bend,TX_Fort Bend
+Texas,TX,Terry,TX_Terry
+Texas,TX,Brown,TX_Brown
+Texas,TX,Caldwell,TX_Caldwell
+Texas,TX,Hamilton,TX_Hamilton
+Texas,TX,Frio,TX_Frio
+Texas,TX,Medina,TX_Medina
+Texas,TX,Bowie,TX_Bowie
+Texas,TX,Milam,TX_Milam
+Texas,TX,Gonzales,TX_Gonzales
+Texas,TX,Bell,TX_Bell
+Texas,TX,Gaines,TX_Gaines
+Texas,TX,El Paso,TX_El Paso
+Texas,TX,Clay,TX_Clay
+Texas,TX,Willacy,TX_Willacy
+Texas,TX,Waller,TX_Waller
+Texas,TX,Eastland,TX_Eastland
+Texas,TX,Colorado,TX_Colorado
+Texas,TX,Montague,TX_Montague
+Texas,TX,Midland,TX_Midland
+Texas,TX,Travis,TX_Travis
+Texas,TX,Fannin,TX_Fannin
+Texas,TX,Hudspeth,TX_Hudspeth
+Texas,TX,Atascosa,TX_Atascosa
+Texas,TX,Navarro,TX_Navarro
+Texas,TX,Wood,TX_Wood
+Texas,TX,Lamar,TX_Lamar
+Texas,TX,Wharton,TX_Wharton
+Texas,TX,Kimble,TX_Kimble
+Texas,TX,San Saba,TX_San Saba
+Texas,TX,Hidalgo,TX_Hidalgo
+Texas,TX,Wilson,TX_Wilson
+Texas,TX,Red River,TX_Red River
+Texas,TX,Brazoria,TX_Brazoria
+Texas,TX,Maverick,TX_Maverick
+Texas,TX,Cooke,TX_Cooke
+Texas,TX,Hartley,TX_Hartley
+Texas,TX,Palo Pinto,TX_Palo Pinto
+Texas,TX,Lavaca,TX_Lavaca
+Texas,TX,Grayson,TX_Grayson
+Texas,TX,De Witt,TX_De Witt
+Texas,TX,Yoakum,TX_Yoakum
+Texas,TX,Burleson,TX_Burleson
+Texas,TX,Comanche,TX_Comanche
+Texas,TX,Houston,TX_Houston
+Texas,TX,Matagorda,TX_Matagorda
+Texas,TX,Menard,TX_Menard
+Texas,TX,Bastrop,TX_Bastrop
+Texas,TX,Smith,TX_Smith
+Texas,TX,Cameron,TX_Cameron
+Texas,TX,Van Zandt,TX_Van Zandt
+Texas,TX,Madison,TX_Madison
+Texas,TX,Fayette,TX_Fayette
+Texas,TX,Brazos,TX_Brazos
+Texas,TX,Mclennan,TX_Mclennan
+Texas,TX,Hale,TX_Hale
+Texas,TX,Robertson,TX_Robertson
+Texas,TX,Parker,TX_Parker
+Texas,TX,Uvalde,TX_Uvalde
+Texas,TX,Glasscock,TX_Glasscock
+Texas,TX,Hunt,TX_Hunt
+Texas,TX,Williamson,TX_Williamson
+Texas,TX,Lamb,TX_Lamb
+Texas,TX,Lubbock,TX_Lubbock
+Texas,TX,Wise,TX_Wise
+Texas,TX,Zavala,TX_Zavala
+Texas,TX,Hood,TX_Hood
+Texas,TX,Bexar,TX_Bexar
+Texas,TX,Erath,TX_Erath
+Texas,TX,Collin,TX_Collin
+Texas,TX,Coryell,TX_Coryell
+Texas,TX,Pecos,TX_Pecos
+Texas,TX,Gillespie,TX_Gillespie
+Texas,TX,Guadalupe,TX_Guadalupe
+Texas,TX,Lampasas,TX_Lampasas
+Utah,UT,Utah,UT_Utah
+Utah,UT,Box Elder,UT_Box Elder
+Utah,UT,Weber,UT_Weber
+Vermont,VT,Windham,VT_Windham
+Vermont,VT,Addison,VT_Addison
+Vermont,VT,Bennington,VT_Bennington
+Virginia,VA,Fauquier,VA_Fauquier
+Virginia,VA,Northampton,VA_Northampton
+Virginia,VA,Albemarle,VA_Albemarle
+Virginia,VA,Nelson,VA_Nelson
+Virginia,VA,Rockingham,VA_Rockingham
+Virginia,VA,Hanover,VA_Hanover
+Virginia,VA,Frederick,VA_Frederick
+Virginia,VA,Carroll,VA_Carroll
+Virginia,VA,Accomack,VA_Accomack
+Virginia,VA,Westmoreland,VA_Westmoreland
+Washington,WA,Franklin,WA_Franklin
+Washington,WA,Adams,WA_Adams
+Washington,WA,Walla Walla,WA_Walla Walla
+Washington,WA,Pacific,WA_Pacific
+Washington,WA,Kittitas,WA_Kittitas
+Washington,WA,Chelan,WA_Chelan
+Washington,WA,Snohomish,WA_Snohomish
+Washington,WA,Whatcom,WA_Whatcom
+Washington,WA,Grant,WA_Grant
+Washington,WA,Lincoln,WA_Lincoln
+Washington,WA,Benton,WA_Benton
+Washington,WA,Spokane,WA_Spokane
+Washington,WA,Clark,WA_Clark
+Washington,WA,King,WA_King
+Washington,WA,Skagit,WA_Skagit
+Washington,WA,Yakima,WA_Yakima
+Washington,WA,Okanogan,WA_Okanogan
+Washington,WA,Grays Harbor,WA_Grays Harbor
+Washington,WA,Thurston,WA_Thurston
+Washington,WA,Lewis,WA_Lewis
+Washington,WA,Pierce,WA_Pierce
+Washington,WA,Cowlitz,WA_Cowlitz
+West Virginia,WV,Berkeley,WV_Berkeley
+Wisconsin,WI,Dunn,WI_Dunn
+Wisconsin,WI,Polk,WI_Polk
+Wisconsin,WI,Waupaca,WI_Waupaca
+Wisconsin,WI,Dodge,WI_Dodge
+Wisconsin,WI,Wood,WI_Wood
+Wisconsin,WI,Trempealeau,WI_Trempealeau
+Wisconsin,WI,Kenosha,WI_Kenosha
+Wisconsin,WI,St Croix,WI_St Croix
+Wisconsin,WI,Oneida,WI_Oneida
+Wisconsin,WI,Sheboygan,WI_Sheboygan
+Wisconsin,WI,Jefferson,WI_Jefferson
+Wisconsin,WI,Marquette,WI_Marquette
+Wisconsin,WI,Columbia,WI_Columbia
+Wisconsin,WI,Green Lake,WI_Green Lake
+Wisconsin,WI,Outagamie,WI_Outagamie
+Wisconsin,WI,Waushara,WI_Waushara
+Wisconsin,WI,Juneau,WI_Juneau
+Wisconsin,WI,Rock,WI_Rock
+Wisconsin,WI,Racine,WI_Racine
+Wisconsin,WI,Marathon,WI_Marathon
+Wisconsin,WI,Door,WI_Door
+Wisconsin,WI,Calumet,WI_Calumet
+Wisconsin,WI,Barron,WI_Barron
+Wisconsin,WI,Marinette,WI_Marinette
+Wisconsin,WI,Monroe,WI_Monroe
+Wisconsin,WI,Walworth,WI_Walworth
+Wisconsin,WI,Vernon,WI_Vernon
+Wisconsin,WI,Adams,WI_Adams
+Wisconsin,WI,Manitowoc,WI_Manitowoc
+Wisconsin,WI,Portage,WI_Portage
+Wisconsin,WI,Kewaunee,WI_Kewaunee
+Wisconsin,WI,Fond Du Lac,WI_Fond Du Lac
+Wisconsin,WI,Sauk,WI_Sauk
+Wisconsin,WI,Oconto,WI_Oconto
+Wisconsin,WI,Dane,WI_Dane
+Wisconsin,WI,Jackson,WI_Jackson
+Wisconsin,WI,Washington,WI_Washington
+Wisconsin,WI,Langlade,WI_Langlade
